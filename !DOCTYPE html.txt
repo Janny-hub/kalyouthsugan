@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Consultant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
+        nav {
+            margin: 0;
+            padding: 1em 0;
+            background-color: #f8f9fa;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 1em;
+            color: #007bff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 2em;
+            max-width: 800px;
+            margin: auto;
+        }
+        footer {
+            background-color: #007bff;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        h1, h2 {
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Research Consultant</h1>
+    </header>
+
+    <nav>
+        <a href="#about">Tungkol sa Akin</a>
+        <a href="#services">Serbisyo</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#contact">Makipag-ugnayan</a>
+    </nav>
+
+    <section id="about">
+        <h2>Tungkol sa Akin</h2>
+        <p>Kumusta! Ako ay isang propesyonal na research consultant na may malawak na karanasan sa [specific field or expertise]. Ang aking tungkulin ay magsagawa ng masusing pananaliksik, suriin ang mga datos, at magbigay ng mga makakatulong na pananaw upang matulungan ang mga negosyo at organisasyon na gumawa ng matalinong desisyon.</p>
+    </section>
+
+    <section id="services">
+        <h2>Serbisyo</h2>
+        <ul>
+            <li>Pananaliksik sa Merkado</li>
+            <li>Pagsusuri ng Datos</li>
+            <li>Competitive Analysis</li>
+            <li>Konsultasyon sa Estratehiya ng Negosyo</li>
+            <li>Custom Research Solutions</li>
+        </ul>
+    </section>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>Narito ang ilang mga halimbawa ng aking mga proyekto:</p>
+        <ul>
+            <li>Proyekto 1: Paglalarawan ng proyekto at epekto nito.</li>
+            <li>Proyekto 2: Paglalarawan ng proyekto at epekto nito.</li>
+            <li>Proyekto 3: Paglalarawan ng proyekto at epekto nito.</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Makipag-ugnayan</h2>
+        <p>Kung interesado kang makipagtulungan sa akin o nais mong malaman ang higit pa tungkol sa aking mga serbisyo, huwag mag-atubiling makipag-ugnayan:</p>
+        <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+        <p>Telepono: (123) 456-7890</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Research Consultant. Lahat ng karapatan ay nakalaan.</p>
+    </footer>
+
+</body>
+</html>
+
